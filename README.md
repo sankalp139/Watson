@@ -1,4 +1,4 @@
-# Watson-Natural-Language-Understanding
+# Watson
 A natural Language Understanding  web App made using Watson's API
 
 Instructions to run Watson-Natural-Language-Understanding API
