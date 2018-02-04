@@ -3,7 +3,7 @@ A natural Language Understanding  web App made using Watson's API
 
 Instructions to run Watson-Natural-Language-Understanding API
 
-1.Clone the repository by running https://github.com/sankalp139/Watson-Natural-Language-Understanding.git
+1.Clone the repository by running https://github.com/sankalp139/Watson
 
 2.Run npm install from your terminal to install all dependencies.
 
